@@ -1,0 +1,36 @@
+100000
+rst1 cost time: 0.27327043s
+rst2 cost time: 0.002620333s
+rst3 cost time: 0.000206208s
+rst4 cost time: 0.000270959s
+Find primes numbers 9592
+
+1000000
+rst1 cost time: 20.86635s
+rst2 cost time: 0.06394371s
+rst3 cost time: 0.003210292s
+rst4 cost time: 0.003688958s
+Find primes numbers 78498
+
+10000000
+rst2 cost time: 1.4844843s
+rst3 cost time: 0.02556954s
+rst4 cost time: 0.03428446s
+Find primes numbers 664579
+
+100000000
+rst2 cost time: 40.677765s
+rst3 cost time: 0.93397534s
+rst4 cost time: 0.40093505s
+Find primes numbers 5761455
+
+1000000000
+rst3 cost time: 10.511551s
+rst4 cost time: 141.69586s
+Find primes numbers 50847534
+(u32) 
+rst3 cost time: 10.421521s
+rst4 cost time: 3.6720397s
+Find primes numbers 50847534
+
+
